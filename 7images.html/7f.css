@@ -1,0 +1,28 @@
+.title {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.textbox {
+    width: 400px;
+    border-width: 2px;
+    border-color: rgb(100, 100, 100);
+    border-style: solid;
+    border-radius: 4px;
+}
+.desclimer {
+    font-size: 17px;
+
+}
+.agree {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    width: 200px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}

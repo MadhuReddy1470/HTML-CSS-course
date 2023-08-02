@@ -1,0 +1,12 @@
+.Tweet-button {
+    background-color: rgb(29,155,240);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 40px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

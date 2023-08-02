@@ -1,0 +1,18 @@
+.card {
+    font-family: Arial;
+    border-style: solid;
+    background-color: rgb(33, 33, 33);
+    width: 450px;
+    height: 150px;
+    padding-left: 20px;
+}
+.title {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.desclimer {
+    color: rgb(200, 200, 200);
+    width: 370px;
+    padding-top:5px ;
+}

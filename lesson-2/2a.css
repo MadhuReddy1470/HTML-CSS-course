@@ -1,0 +1,9 @@
+.uber-button {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+
+}
